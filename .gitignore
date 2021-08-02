@@ -2,3 +2,4 @@ App-cpanminus-script-Patch-UseURIFromFoundMirror-*
 .build
 *~
 nytprof*
+.DS_Store
